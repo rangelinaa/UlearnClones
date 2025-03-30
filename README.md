@@ -17,4 +17,4 @@
 Система управления клонами:
 - `clones` — хранит всех клонов.
 - `nextCloneId` — номер следующего клона.
-- `Execute(query)` — выполняет команды (`learn`, rollback, relearn, clone, `check`).
+- `Execute(query)` — выполняет команды (learn, rollback, relearn, clone, check).
