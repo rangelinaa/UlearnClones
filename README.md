@@ -1,7 +1,7 @@
 # UlearnClones
 
 ## Диаграмма классов
-![Диаграмма классов]([https://www.mermaidchart.com/raw/87e96f4c-6ec9-41c1-a2bb-79fd15f9415b?theme=light&version=v0.1&format=svg](https://www.mermaidchart.com/raw/377341e9-6cda-43c5-85d1-7ad16198d036?theme=light&version=v0.1&format=svg))
+![Диаграмма классов](https://www.mermaidchart.com/raw/377341e9-6cda-43c5-85d1-7ad16198d036?theme=light&version=v0.1&format=svg)
 
 ---
 
